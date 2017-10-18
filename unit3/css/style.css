@@ -1,0 +1,13 @@
+body {
+  text-align: left;
+  background: url("..images/Marketing-Library-Hero-Image.jpg");
+  background-size: cover;
+  color: #ffffff;
+  font-family: Helvetica;
+}	
+div {
+	width: 1200px;
+	height: 300px;
+}
+#greenbox {
+	background: #9dc335;
