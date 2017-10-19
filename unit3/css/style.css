@@ -1,6 +1,7 @@
 body {
   text-align: left;
   color: #ffffff;
+  background-size: cover;
   font-family: Helvetica;
 }	
 div {
@@ -8,5 +9,5 @@ div {
 	height: 300px;
 }
 #greenbox {
-	background: #9dc335;
+	background: #green;
 }
