@@ -4,6 +4,7 @@ body {
   background-image: url(../images/Marketing-Library-Hero-Image.jpg);
   background-size: cover;
   background-repeat-y: no-repeat;
+  background-repeat-x: no-repeat;
   color: #a9a9a9;
   font-family: Open Sans;
 }	
