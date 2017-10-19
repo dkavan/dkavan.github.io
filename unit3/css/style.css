@@ -1,7 +1,5 @@
 body {
   text-align: left;
-  background: url("..images/Marketing-Library-Hero-Image.jpg");
-  background-size: cover;
   color: #ffffff;
   font-family: Helvetica;
 }	
@@ -11,3 +9,4 @@ div {
 }
 #greenbox {
 	background: #9dc335;
+}
