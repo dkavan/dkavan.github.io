@@ -5,14 +5,11 @@
 
 }
 
-
-
 body {
     background: white;
-    background-color: #E1DBFF;
-    color: #4A4369;
+    color: #222;
     font-size: 12px;
-    font-family: "Raleway", Georgia, sans-serif;
+    font-family: "Open-Sans", sans-serif;
     font-weight: 400;
 }
 img{
@@ -20,14 +17,14 @@ img{
 	width: 100%;
 }
 #logo{
-	width: 200px;
+	width: 50px;
 }
 .navlink{
 	width: 16.667%;
 	font-size: 16px;
 	display: block; 
-	float: left; 
-	color: #4A4369;
+	float: right; 
+	color: #222;
 	text-decoration: none;
 	text-align: center;
 	padding-bottom: 10px; 
@@ -49,14 +46,8 @@ img{
 	border-color: white; 
 	text-align: center;
 	font-size: 48px;
-	font-family: serif;
+	font-family: sans-serif;
 	font-style: italic;
-
-}
-#herocontent h3{
-	padding-bottom: 20px;
-	text-align: center;
-	font-size: 34px;
 }
 #herocontent h4{
 	text-align: center;
@@ -109,23 +100,15 @@ img{
 		width: 100%;
 	}
 }
-@media screen and (max-width:585px){
+@media screen and (max-width:768px){
 	#herocontent h2{
 		font-size: 34px;
-	}
-	#herocontent h3{
-		font-size: 22px;
-	}
 }
 @media screen and (max-width:470px){
 	#herocontent h2{
-		display: none;
-	}
-	#herocontent h3{
 		display: none;
 	}
 @media screen and (max-width:470px){
 	#footer{
 		font-size: 7px;
 	}
-	}	
