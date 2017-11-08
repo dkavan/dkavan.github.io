@@ -4,8 +4,6 @@
 	box-sizing:border-box;
 }
 body {
-  text-align: left;
-  padding-top: 50px;
   color: #222;
   font-family: 'Open Sans', sans-serif;
   line-height: 1.5;
@@ -14,11 +12,6 @@ body {
   background-image: url(../images/Marketing-Library-Hero-Image.jpg);
   background-size: cover;
   background-repeat:no-repeat;
-  color: #000000;
-  font-family: 'Open Sans'; 
-  line-height: 1.5em;
-}	
-
   height: 60vh;
   background-position: right;
   padding: 8em 0 0 12em;
