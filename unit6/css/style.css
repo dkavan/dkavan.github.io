@@ -12,15 +12,16 @@ body {
   width: 100px;
 }
 nav {
-  font-size: 1.8em;
+  font-size: 1em;
   float: right;
 } 
 
 nav a { 
   text-decoration: none;
   color: black;
-  margin: 1.8em;
+  margin: 1em;
   display: inline-block;
+  clear: both;
 }
 #intro {
   background-image: url(../images/Marketing-Library-Hero-Image.jpg);
@@ -40,6 +41,7 @@ nav a {
   display: block;
   float: left;
   text-align: center;
+  clear: both;
 }
 .block figcaption{
   position: absolute;
